@@ -239,6 +239,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台test,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台test2,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台test3,http://113.117.74.45:8081/hls/67/index.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰卫视,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
