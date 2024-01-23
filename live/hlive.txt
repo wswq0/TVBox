@@ -107,6 +107,9 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 翡翠台,http://113.64.147.130:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.155:808/hls/67/index.m3u8 
 翡翠台,http://113.64.147.164:808/hls/67/index.m3u8 
+翡翠台test,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台test2,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡翠台test3,http://113.117.74.45:8081/hls/67/index.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8 
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8 
 Pearl,http://27.47.71.34:808/hls/37/index.m3u8 
