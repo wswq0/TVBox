@@ -1,40 +1,36 @@
-央视,#genre#
-CCTV1,https://live.metshop.top/msp.php?id=cctv1
-CCTV2,https://live.metshop.top/msp.php?id=cctv2
-CCTV3,https://live.metshop.top/msp.php?id=cctv3
-CCTV4,https://live.metshop.top/msp.php?id=cctv4
-CCTV5,https://live.metshop.top/msp.php?id=cctv5
-CCTV5+,https://live.metshop.top/msp.php?id=cctv5p
-CCTV6,https://live.metshop.top/msp.php?id=cctv6
-CCTV7,https://live.metshop.top/msp.php?id=cctv7
-CCTV8,https://live.metshop.top/msp.php?id=cctv8
-CCTV9,https://live.metshop.top/msp.php?id=cctv9
-CCTV10,https://live.metshop.top/msp.php?id=cctv10
-CCTV11,https://live.metshop.top/msp.php?id=cctv11
-CCTV12,https://live.metshop.top/msp.php?id=cctv12
-CCTV13,https://live.metshop.top/msp.php?id=cctv13
-CCTV14,https://live.metshop.top/msp.php?id=cctv14
-CCTV15,https://live.metshop.top/msp.php?id=cctv15
-CCTV16,https://live.metshop.top/msp.php?id=cctv16
-CCTV17,https://live.metshop.top/msp.php?id=cctv17
+大湾区,#genre#
 
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+鳳凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8
+香港卫视-2,https://epg.pw/stream/99980f8e82d6d4111c77f2fe961013e7d1ee153a55c7a9be69cfa17143933fd1.m3u8
+香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+香港麵包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港有線新聞,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+凤凰香港高清,http://113.117.74.107:8081/hls/38/index.m3u8
+香港電台RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+香港電台RTHK 34,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+香港有線新聞台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+ipv6香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+广东体育,https://skype.serv00.net/itouch.php?id=gdty
+广东影视,http://ci.emdoor.tech:8080/touchtv.php?pk=1199
+广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
+广东新闻,http://lhq-cctv.8866.org:18181/tsfile/live/1023_1.m3u8
+广东科技,http://lhq-cctv.8866.org:18181/tsfile/live/1027_1.m3u8
+广东民生,http://lhq-cctv.8866.org:18181/tsfile/live/1024_1.m3u8
+南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+广东公共,http://219.159.194.18:8181/tsfile/live/1002_1.m3u8
+广东科教,http://222.218.158.140:8181/tsfile/live/1003_1.m3u8
+韶关公共台,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 
 
 
